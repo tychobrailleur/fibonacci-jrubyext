@@ -1,2 +1,2 @@
-require '${project.artifactId}-${project.version}'
+require 'fibonacci-jrubyext'
 require 'com/weblogism/myjrubyext/fibonacci'
